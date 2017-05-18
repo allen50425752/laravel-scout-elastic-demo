@@ -1,0 +1,1 @@
+https://laravel-china.org/articles/4027/tutorial-write-a-search-use-laravel-scout-elasticsearch-ik-word-segmentation
